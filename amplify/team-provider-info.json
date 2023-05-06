@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pandemicromantenedor-dev-113342-authRole",
+      "UnauthRoleArn": "arn:aws:iam::261757713423:role/amplify-pandemicromantenedor-dev-113342-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::261757713423:role/amplify-pandemicromantenedor-dev-113342-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-pandemicromantenedor-dev-113342-deployment",
+      "UnauthRoleName": "amplify-pandemicromantenedor-dev-113342-unauthRole",
+      "StackName": "amplify-pandemicromantenedor-dev-113342",
+      "StackId": "arn:aws:cloudformation:us-east-2:261757713423:stack/amplify-pandemicromantenedor-dev-113342/052bfde0-5de0-11ed-9b18-0a3ee5e151cc",
+      "AmplifyAppId": "dc9rxp9wwyjoh"
+    }
+  }
+}
